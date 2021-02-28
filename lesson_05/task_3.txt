@@ -1,0 +1,3 @@
+Ivanov 19000
+Petrov 35000
+Sidorov 48000
